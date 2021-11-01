@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lesson-82/static/css/main.a617e044.chunk.css",
+    "main.js": "/lesson-82/static/js/main.afbcf496.chunk.js",
+    "main.js.map": "/lesson-82/static/js/main.afbcf496.chunk.js.map",
+    "runtime-main.js": "/lesson-82/static/js/runtime-main.5ba198ec.js",
+    "runtime-main.js.map": "/lesson-82/static/js/runtime-main.5ba198ec.js.map",
+    "static/js/2.0ae51b73.chunk.js": "/lesson-82/static/js/2.0ae51b73.chunk.js",
+    "static/js/2.0ae51b73.chunk.js.map": "/lesson-82/static/js/2.0ae51b73.chunk.js.map",
+    "static/js/3.6d1e8c39.chunk.js": "/lesson-82/static/js/3.6d1e8c39.chunk.js",
+    "static/js/3.6d1e8c39.chunk.js.map": "/lesson-82/static/js/3.6d1e8c39.chunk.js.map",
+    "index.html": "/lesson-82/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/lesson-82/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0ae51b73.chunk.js.LICENSE.txt": "/lesson-82/static/js/2.0ae51b73.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/lesson-82/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ba198ec.js",
+    "static/js/2.0ae51b73.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.afbcf496.chunk.js"
+  ]
+}
